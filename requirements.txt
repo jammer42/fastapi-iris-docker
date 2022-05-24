@@ -1,0 +1,5 @@
+aiofiles
+fastapi
+joblib
+scikit-learn
+uvicorn
